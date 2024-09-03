@@ -8,7 +8,6 @@ alert("Haz click en aceptar si quieres saber más sobre los lugares turísticos 
   var nombre=prompt("Ingrese su nombre","")
  document.write("Hola "+ " "+nombre+ " " +"a continuación te mostraremos algunos lugares turísticos de Guatemala")
 </script>
-
 </HEAD>
 <BODY bgcolor="e7fdd2">
 <PRE>
